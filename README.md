@@ -15,7 +15,7 @@ My implementations of very simple control methods, based on PID controller, for 
 
 ## 2. ROS Exercices
 
-My solutions to somes exercices of the course "ROS in 5 Days" from the [robot ignite learning platform](https://www.robotigniteacademy.com)
+My solutions to several exercices of the course "*ROS in 5 Days*" from the [robot ignite learning platform](https://www.robotigniteacademy.com)
 
 ### Topics
   
