@@ -21,6 +21,10 @@ My solutions to several exercices of the course "*ROS in 5 Days*" from the [robo
   
 Using *Topics* to make a robot avoid walls.  
   
+![Robot avoiding a wall](./pics_and_gifs/topics.gif)
+  
 ### Services
   
 Using *Services* to make a BB8 robot move in square.  
+  
+![BB8 moving in square](./pics_and_gifs/services.gif)
