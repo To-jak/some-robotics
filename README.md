@@ -28,3 +28,9 @@ Using *Topics* to make a robot avoid walls.
 Using *Services* to make a BB8 robot move in square.  
   
 ![BB8 moving in square](./pics_and_gifs/services.gif)
+  
+### Actions
+  
+Using *Actions* to control "Taking off" and "Landin" commands of a drone.  
+  
+![Take off and land](./pics_and_gifs/actions.gif)
