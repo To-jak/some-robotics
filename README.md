@@ -38,3 +38,7 @@ Using *Services* to make a BB8 robot move in square.
 Using *Actions* to control "Taking off" and "Landin" commands of a drone.  
   
 ![Take off and land](./pics_and_gifs/actions.gif)
+  
+## 3. ROS Deep Learning  
+  
+*Comming soon!*
